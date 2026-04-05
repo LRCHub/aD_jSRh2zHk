@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "拝啓タイムカプセル",
+  "base_artist": "HO-KA-GO CLIMAX GIRLS",
+  "createdAt": "2026-04-05T04:12:25.507839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "拝啓タイムカプセル",
+      "artist": "HO-KA-GO CLIMAX GIRLS",
+      "has_synced": false,
+      "path": "select/01_拝啓タイムカプセル_HO-KA-GO_CLIMAX_GIRLS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "拝啓タイムカプセル",
+      "artist": "放課後クライマックスガールズ[小宮果穂(CV.河野ひより)、園田智代子(CV.白石晴香)、西城樹里(CV.永井真里子)、杜野凛世(CV.丸岡和佳奈)、有栖川夏葉(CV.涼本あきほ)]",
+      "has_synced": false,
+      "path": "select/02_拝啓タイムカプセル_放課後クライマックスガールズ[小宮果穂(CV.河野ひより)、園田智代子(CV.白石晴香)、西城樹里(CV.永井真里子)、杜野凛世(CV.丸岡和佳奈)、有栖川夏葉.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "拝啓タイムカプセル",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/03_拝啓タイムカプセル_放課後クライマックスガールズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "拝啓タイムカプセル",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": false,
+      "path": "select/04_拝啓タイムカプセル_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).txt"
+    }
+  ]
+}
